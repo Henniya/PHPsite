@@ -16,7 +16,7 @@
         <div id="logo_text">
           <!-- class="logo_colour", allows you to change the colour of the text -->
           <h1><a href="index.html">night<span class="logo_colour">_sky_2</span></a></h1>
-          <h2>PHP Site</h2>
+          <h2>PHP Site !</h2>
         </div>
       </div>
       <div id="menubar">
